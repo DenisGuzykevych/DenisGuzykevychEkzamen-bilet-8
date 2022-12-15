@@ -19,5 +19,5 @@ int main()
    
     for (int i = 0; i < 8; i++)
         sum += a[i];
-    cout << "Сума eлементiв масива = " << sum << endl;
+    cout << "Сума eлементiв масиву = " << sum << endl;
 }
